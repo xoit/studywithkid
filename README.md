@@ -2,8 +2,9 @@
 
 Collect child's courses and record the progress.
 
+## English
 
-## Alphabet
+### Alphabet
 
  * road_letters.pdf　以路为游戏的字母描红
  * 3\_in\_1.pdf　26个字母描红书写
@@ -13,10 +14,23 @@ Collect child's courses and record the progress.
  * tracing.pdf 描红
    * 截止20160104以上文件压缩包 - 链接：http://pan.baidu.com/s/1jGYJRlc 密码：nedn
 
+### More
+
+ * 公文英语
+ * 卡爷爷英语启蒙
+
+## Chinese
+
+ * 最常用的500汉字.doc
+ * 汉字描红.xls
+   * 链接：http://pan.baidu.com/s/1bnJzedp 密码：7xl8
+ * 公文语文
+ * 象形文字
+
 ## Science (Knowledge)
 
  * farm\_printable\_pack.pdf　农场动物，形状等的英文表达 - 链接：http://pan.baidu.com/s/1So6b8 密码：cvx3
-
+ * watermelon\_printable\_pack.pdf - 链接：http://pan.baidu.com/s/1bovYIoJ 密码：azin
 
 ## Math
 
@@ -33,5 +47,12 @@ Collect child's courses and record the progress.
    * A - 链接：http://pan.baidu.com/s/1c1xY8wg 密码：8ned
    * BCDEF - 链接：http://pan.baidu.com/s/1dEnNgsx 密码：0coi
    * GHIJKL - 链接：http://pan.baidu.com/s/1nuvEpnV 密码：u1cu
- * 公文英语
- * 公文语文
+
+## Others
+
+### Drawing
+ * 1-2-3 Draw 链接：http://pan.baidu.com/s/1pKoiKjT 密码：1p1r
+
+### LEGO
+
+### 美国自助在家上学联盟G1-G6系列材料
